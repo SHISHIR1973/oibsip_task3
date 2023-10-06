@@ -11,3 +11,19 @@
 <b>4. Transfer </b>- Transfer amount from one account to another if amount is available. it requires the receiver's Account ID. Amount will be added to the specified account which can be verified from transaction details.
 
 <b>5. Quit </b>- Logout from your account.
+***
+### commands
+<b>1. For compilation:</b>
+~~~
+javac <filename.java>
+~~~
+~~~
+javac ATM.java
+~~~
+<b>2. For execution:</b>
+~~~
+java <filename>
+~~~
+~~~
+java ATM
+~~~
